@@ -10,6 +10,13 @@ The action they perform are:
 - Write Greetings (It can be set as any text) (freely)
 - Write Greetings by paying any amount of ether, bnb or polygon.
 
+## Contact
+[Telegram](https://t.me/sir_bee)
+
+[Twitter](https://twitter.com/BoluAdegbola1)
+
+Email: kippempire@gmail.com
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -34,10 +41,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-## Contact
-[Telegram](https://t.me/sir_bee)
-
-[Twitter](https://twitter.com/BoluAdegbola1)
-
-[Email](mailto: kippempire@gmail.com)
