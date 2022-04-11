@@ -37,5 +37,7 @@ Your app is ready to be deployed!
 
 ## Contact
 [Telegram](https://t.me/sir_bee)
+
 [Twitter](https://twitter.com/BoluAdegbola1)
-[Email](kippempire@gmail.com)
+
+[Email](mailto: kippempire@gmail.com)
