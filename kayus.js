@@ -5,6 +5,9 @@ console.log('Girl: Diamond Adegbola')
 var jj = {symbol: 'ETHUSDT', price: '3223.93000000'};
 
 const first = [2, 3, 'laga', {first: "rabbit", second: 'romans', 'tree': 'firm'}]
+let x = 0
+// @ts-ignore
+const newFirst = first.map(v => v.toString().concat(x++))
 
 first.forEach(each => {
    if(typeof(each) === 'object' && each !== null){
@@ -13,6 +16,12 @@ first.forEach(each => {
    else
     console.log(each)
 })
+
+console.log(newFirst)
+
+const xy = [2, 3]
+this.ff = xy.map(x => x*x).reduce((total, value) => total+value)
+console.log(this.ff)
 
 let firsh = {first: "rabbit", second: 'romans', tree: 'firm'}
 let zz = JSON.stringify(firsh)
