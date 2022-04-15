@@ -10,7 +10,7 @@ let x = 0
 const newFirst = first.map(v => v.toString().concat(x++))
 
 first.forEach(each => {
-   if(typeof(each) === 'object' && each !== null){
+   if(typeof(each) === 'object' && each !== null){//
     console.log(`content is ${each.first} and ${each.second}`)
    }
    else
