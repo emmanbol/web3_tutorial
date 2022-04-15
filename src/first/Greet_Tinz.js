@@ -545,7 +545,7 @@ class Gege extends React.Component{
                 {error_report2}
         </div>
 
-        <div style={{marginTop: '52px', marginBottom: '5px'}} className="w3-row w3-margin-left 
+        <div style={{marginTop: '32px', marginBottom: '5px'}} className="w3-row w3-margin-left 
                         w3-margin-right  w3-border w3-container w3-center w3-round-xlarge">
           <div className="" style={{marginLeft: '50px', marginRight: '50px', marginBottom: '5px'}}>
             <input value={vv2} onChange={e => this.setState({greeting2: e.target.value, vv2: e.target.value})} 
