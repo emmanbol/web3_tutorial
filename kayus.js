@@ -19,6 +19,7 @@ let zz = JSON.stringify(firsh)
 console.log(firsh)
 const kkc = JSON.parse(zz)
 console.log(kkc)
+//jsjf
 
 // @ts-ignore
 //console.log(jj.price*0.005)//rough_shod
