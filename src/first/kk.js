@@ -92,7 +92,7 @@ class Shapes{
 class Rectangle extends Shapes{
     constructor(name, length, breadth, height){
         super(name, length, breadth)//there must be super in derived class constructor
-        this.height = height
+        this.height = height//error_lala
     }
     
     //override area
